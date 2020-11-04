@@ -1,4 +1,4 @@
-# cablesgl_softbody
+# Cables.gl Softbody Ops
 Softbody logic for Cables.gl using Cannon.js
 
 Pass all the mesh vertices to cannon js to create rigid bodies with all of them.
