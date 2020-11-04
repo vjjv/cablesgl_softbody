@@ -3,7 +3,7 @@ Softbody logic for Cables.gl using Cannon.js
 
 Pass all the mesh vertices to cannon js to create rigid bodies with all of them.
 Then add elastic constraint to keep them together.
-
+(The face model is broken on the cables.gl link example, it's not due to the op algorithm, the input model is like that)
 
 
 Please use them like the cables examples below :
