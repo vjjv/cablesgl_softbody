@@ -12,7 +12,7 @@ Please use them like the cables examples below :
 
 - Softbody mesh : 'SoftbodyTab_usingArrays' op : https://cables.gl/p/CRyNqC
 
-- Softbody mesh : 'SoftbodyMesh_usingMaps' op : https://cables.gl/p/CRyNqC
+- Softbody mesh : 'SoftbodyMesh_usingMaps' op : https://cables.gl/p/9VATXB
 
 SoftbodyTab is a V2 of the SoftbodyMesh and store values in js arrays instead of js Maps, results faster.
 
