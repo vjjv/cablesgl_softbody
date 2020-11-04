@@ -8,6 +8,15 @@ Then add elastic constraint to keep them together.
 
 Please use them like the cables examples below :
 
-- Softbody mesh : 'SoftbodyTab' op : https://cables.gl/p/CRyNqC
-
 - Softbody clothes : 'SoftbodyCloth2' op : https://cables.gl/p/8N6E-G
+
+- Softbody mesh : 'SoftbodyTab_useArrays' op : https://cables.gl/p/CRyNqC
+
+- Softbody mesh : 'SoftbodyMesh_useMaps' op : https://cables.gl/p/CRyNqC
+
+SoftbodyTab is a V2 of the SoftbodyMesh and store values in js arrays instead of js Maps, results faster.
+
+Enjoy
+
+
+
